@@ -6,4 +6,3 @@
 - 💬 Ask me about music and innovation or anything related to software development :)  
 - 📫 How to reach me: [website](https://vincentpaolo.github.io) [linkedin](https://www.linkedin.com/in/vincent-paolo-corputty-a18b2986/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: met my gf in a coding bootcamp
