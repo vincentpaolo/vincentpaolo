@@ -8,4 +8,3 @@
 - 📫 How to reach me: [website](https://vincentpaolo.github.io)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: met my gf in a coding bootcamp
--->
