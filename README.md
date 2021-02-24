@@ -1,7 +1,5 @@
 ### Hi my name is Vincent-Paolo 👋
 
-<!--
-
 - 🔭 I’m currently working on AR applications
 - 🌱 I’m currently studying for my Unity Developer cert exam :)
 - 👯 I’m looking to collaborate on 
